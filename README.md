@@ -1,6 +1,6 @@
 ## Hey, I´m Fefe Alves!
 
-- 🔨 I’m currently working on data science & data engineering projects in the Communication and Marketing fields.
+- 🔨 I’m currently working on data strategy projects in the Communication and Marketing fields.
 - 🎲 I'm always studying a lot of things but now I'm focused on fundamentals Azure's certifications. 
 - 😍 I would love to work on open-source data projects.
 - 💬 I love to talk about data (analysis, science, engineering), business analysis, machine learning, statistics, operational research, predictive models...  
