@@ -6,13 +6,14 @@
 - 💬 I love to talk about data (analysis, science, engineering), business analysis, machine learning, statistics, operational research, predictive models...  
 - 🌈 Pronouns: she/her.
 
+##### p.s.: I know, I have to build (and publish) a lot of stuff here 😅 :
 <div align="center">
   <a href="https://github.com/ffalves">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ffalves&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ffalves&layout=compact&langs_count=7&theme=merko"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ffalves&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ffalves&layout=compact&langs_count=7&theme=merko"/>
 </div>
 
-##### These are the technologies I´m interested in:
+#### These are the technologies I´m interested in:
 <div style="display: inline_block"><br>
   <img align="center" alt="ffalves-rprogramming" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg">
   <img align="center" alt="ffalves-javascript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
@@ -20,7 +21,7 @@
   <img align="center" alt="ffalves-csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"">
 </div>
 
-##### These are the tools I´m interested in:
+#### These are the tools I´m interested in:
 <div style="display: inline_block"><br>
   <img align="center" alt="ffalves-rstudio" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg">
   <img align="center" alt="ffalves-azure" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg">
