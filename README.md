@@ -1,12 +1,12 @@
 ## Hey, I´m Fefe Alves!
 
-- 🔨 I’m currently working on data strategy projects in the Communication and Marketing fields.
+- 🔨 In recent years, I have been working as a data strategist leading data teams (engineering, science and analytics).
 - 🎲 I'm always studying a lot of things but now I'm focused on fundamentals Azure's certifications. 
 - 😍 I would love to work on open-source data projects.
 - 💬 I love to talk about data (analysis, science, engineering), business analysis, machine learning, statistics, operational research, predictive models...  
 - 🌈 Pronouns: she/her.
 
-##### p.s.: I know, I have to build (and publish) a lot of stuff here 😅 :
+##### p.s.: I know, I've overlooked it a little bit and I'm not proud of it, but it's always time to make a new commit and participate in new projects, right? 😅 :
 <div align="center">
   <a href="https://github.com/ffalves">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ffalves&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
