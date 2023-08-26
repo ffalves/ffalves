@@ -1,8 +1,8 @@
 ## Hey, I´m Fefe Alves!
 
-- 🔨 In recent years, I have been working as a data strategist leading data teams (engineering, science and analytics).
-- 🎲 I'm always studying a lot of things but now I'm focused on fundamentals Azure's certifications. 
-- 💬 I love to talk about data (analysis, science, engineering), business analysis, machine learning, statistics, operational research, predictive models...  
+- 🔨 I'm a data strategist and I work as head of data.
+- 🎲 Much of my strategic work involves growing audiences and monetizing digital products.
+- 💬 I'm also passionate about sports & performance analytics, mainly football (soccer), running and judo.  
 - 🌈 Pronouns: she/her.
 
 #### p.s.: I know, I've overlooked it a little bit and I'm not proud of it, but it's always time to make a new commit and participate in new projects, right? 😅 :
