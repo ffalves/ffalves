@@ -17,22 +17,7 @@
   <img align="center" alt="ffalves-rprogramming" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg">
   <img align="center" alt="ffalves-javascript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="ffalves-python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="center" alt="ffalves-csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
-</div>
 
-#### These are the technologies I work with:
-<div style="display: inline_block"><br>
-  <img align="center" alt="ffalves-rstudio" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg">
-  <img align="center" alt="ffalves-azure" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg">
-  <img align="center" alt="ffalves-numpy" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg">
-  <img align="center" alt="ffalves-pandas" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg">
-  <img align="center" alt="ffalves-databricks" height="30" width="40" src="https://cdn.icon-icons.com/icons2/2699/PNG/128/databricks_logo_icon_170295.png">
-  <img align="center" alt="ffalves-tidyverse" height="30" width="40" src="https://raw.githubusercontent.com/rstudio/hex-stickers/13ed1ab84f92d90be43439c371a6cf2b49d8c373/SVG/tidyverse.svg">
-
-  
-  ##
- 
- 
 ##### If you want to talk to me:
 <div> 
   <a href = "mailto:falves.ds.lab@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
