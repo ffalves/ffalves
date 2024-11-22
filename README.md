@@ -1,7 +1,7 @@
 ## Hey, I´m Fefe Alves!
-- 🔨 I'm a data scientist working as a data strategist consultant in Thoughtworks.
-- 🎲 I'm interested in:
-  #data-science #stats #probability #operations-research #python #r-programming #machine-learning #deep-learning #reinforcement-learning
+- 🔨 I'm a data scientist and a data strategist and currently, I'm studying for ML Engineering certifications.
+- 🎲 I'm interested in: 
+  #machine-learning-engineering #data-science #data-engineering #ai #gen-ai #mlops #python #stats #operations-research
 - 🌈 Pronouns: she/her.
   
 #### If you want to talk to me:
